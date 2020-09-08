@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "test query from mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omegazdarknn/nodejswmysql.git"
+  },
+  "author": "omegazdarknn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omegazdarknn/nodejswmysql/issues"
+  },
+  "homepage": "https://github.com/omegazdarknn/nodejswmysql#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
